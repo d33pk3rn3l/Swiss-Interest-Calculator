@@ -3,7 +3,7 @@ source "https://rubygems.org"
 gem "jekyll", "~> 4.0"
 
 # If you're using a Jekyll theme, add it here
-# gem "minima", "~> 2.0"
+gem "minima", "~> 2.5.1"
 
 group :jekyll_plugins do
   # Add Jekyll plugins here
