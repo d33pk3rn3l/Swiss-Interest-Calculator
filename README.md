@@ -1,5 +1,3 @@
-# (Swiss) Interest Rate Calculator
-
 This Python script calculates the Effective Annual Rate (EAR) for different bank accounts and visualizes the total return after one year for a range of initial amounts. The script uses both matplotlib and plotly for visualization.
 Currently it outputs some Neobanks with great offers to the Swiss Public.
 
