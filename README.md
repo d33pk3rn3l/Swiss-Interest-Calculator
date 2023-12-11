@@ -32,7 +32,7 @@ The script outputs a matplotlib figure and a plotly figure, both showing the tot
 For December 2023 the following figure is valid:
 ![](total_return.png)
 
-So wiLLbe is the best until you reach around 62k, then you can use Radicant for up to 250k, and after that Alpian offers 1.5% up to 1 million...
+So wiLLbe is the best until you reach around 62k, then you can use Radicant for up to 250k, and after that Alpian offers 1.5% up to 1 million... You can also go to the interactive [Plotly Plot](./total_return.html) to check out everything.
 
 ## License
 
