@@ -17,6 +17,16 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2.2'  # or a newer version
+
+      - name: Install dependencies
+        run: |
+          gem install bundler
+          bundle install
+
       - name: Rename README.md to index.md
         run: mv README.md index.md
 
