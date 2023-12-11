@@ -29,6 +29,11 @@ You can customize the script by modifying the `accounts` dictionary to add or re
 
 The script outputs a matplotlib figure and a plotly figure, both showing the total return after one year for each account for a range of initial amounts. The matplotlib figure is saved as 'total_return.png', and the plotly figure is saved as 'total_return.html'.
 
+For December 2023 the following figure is valid:
+![](total_return.png)
+
+So wiLLbe is the best until you reach around 62k, then you can use Radicant for up to 250k, and after that Alpian offers 1.5% up to 1 million...
+
 ## License
 
 This project is licensed under The Unlicense.
